@@ -39,7 +39,7 @@
     "@stardust-configs/tsconfig": "0.2.0",
     "@types/jest": "26.0.24",
     "@types/js-yaml": "4.0.5",
-    "@types/node": "14.18.26",
+    "@types/node": "16.11.56",
     "@types/rimraf": "3.0.2",
     "@types/shelljs": "0.8.11",
     "dotenv-ctrl": "0.1.1",
